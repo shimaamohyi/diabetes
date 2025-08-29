@@ -33,7 +33,10 @@ The dataset used contains medical records related to diabetes.
 
 ---
 
-## 📦 Installation & Local Setup
+## Installation & Local Setup
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/diabetes-predicti
+   git clone https://github.com/shimaamohyi/diabetes.git
+   cd diabetes
+
