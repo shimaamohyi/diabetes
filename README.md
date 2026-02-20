@@ -6,7 +6,7 @@ Multiple classification models were trained and optimized using **Hyperparameter
 - Decision Tree  
 - Random Forest  
 - XGBoost  
-- GridSearchCV  
+- GridSearch 
 
 ---
 
